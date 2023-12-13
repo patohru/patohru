@@ -6,8 +6,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 ) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 # 📊My GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=tco46&show_icons=true&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tco46&hide_progress=false&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tco46&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=tco46&show_icons=true&theme=radical)
+![](https://streak-stats.demolab.com/?user=tco46&theme=radical) <br/>
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TCO46&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TCO46&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
